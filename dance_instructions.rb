@@ -20,7 +20,7 @@ def skip_step_right
   puts "Right left right and right"
 end
 
-def Bob_the_Reins
+def bob_the_reins
   puts "Holding your arms out infront of you, straight and at chest level"
   puts "Cross your right wrist over your left and hold them together"
   puts "Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
@@ -40,42 +40,40 @@ end
 proper_stance
 bust_a_move
 base_footwork
-Bob_the_Reins 
+bob_the_reins
 puts "while also"
 skip_step_right
 skip_step_left
-Bob_the_Reins 
+bob_the_reins 
 puts "while also"
 skip_step_right
 skip_step_left
-Bob_the_Reins 
+bob_the_reins 
 puts "while also"
 skip_step_right
 skip_step_left
-Bob_the_Reins 
+bob_the_reins
 puts "while also"
 skip_step_right
 skip_step_left
-Bob_the_Reins 
+bob_the_reins
 puts "while also"
 skip_step_right
 skip_step_left
-Bob_the_Reins 
+bob_the_reins 
 puts "while also"
 skip_step_right
 skip_step_left
-Bob_the_Reins 
+bob_the_reins 
 puts "while also"
 skip_step_right
 skip_step_left
-Bob_the_Reins 
+bob_the_reins 
 puts "while also"
 skip_step_right
 skip_step_left
 puts "all at the same time. Your arm movements and steps should match up."
-
 puts "THEN"
-
 lasso 
 puts "while also"
 skip_step_right
