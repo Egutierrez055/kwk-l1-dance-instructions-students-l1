@@ -29,5 +29,18 @@ end
 def lasso
   puts : "Starts arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left."
   puts "Lift your right arm up and point right elbow diagonally to the right."
-  puts ""
+  puts "Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso. This movement is repeated eight times as well."
+end
+
+def bust_a_move
+  puts "Be cool"
+  puts "Be snazzy"
+end
+
+Bob_the_Reins 
+puts "while also"
+skip_step_right
+skip_step_left
+
+  
   
