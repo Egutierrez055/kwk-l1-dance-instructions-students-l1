@@ -70,4 +70,4 @@ puts "while also"
 skip_step_right
 skip_step_left
   
-  
+  all at the same time. Your arm movements and steps should match up.
