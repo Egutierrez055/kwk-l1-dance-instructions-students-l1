@@ -41,6 +41,33 @@ Bob_the_Reins
 puts "while also"
 skip_step_right
 skip_step_left
-
+Bob_the_Reins 
+puts "while also"
+skip_step_right
+skip_step_left
+Bob_the_Reins 
+puts "while also"
+skip_step_right
+skip_step_left
+Bob_the_Reins 
+puts "while also"
+skip_step_right
+skip_step_left
+Bob_the_Reins 
+puts "while also"
+skip_step_right
+skip_step_left
+Bob_the_Reins 
+puts "while also"
+skip_step_right
+skip_step_left
+Bob_the_Reins 
+puts "while also"
+skip_step_right
+skip_step_left
+Bob_the_Reins 
+puts "while also"
+skip_step_right
+skip_step_left
   
   
