@@ -3,4 +3,5 @@ def proper_stance
 end
 
 def base_footwork
+  puts "Lift right foot."
   puts ""
