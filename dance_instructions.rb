@@ -69,5 +69,11 @@ Bob_the_Reins
 puts "while also"
 skip_step_right
 skip_step_left
-  
-  all at the same time. Your arm movements and steps should match up.
+puts "all at the same time. Your arm movements and steps should match up."
+
+puts "THEN"
+
+lasso 
+puts "while also"
+skip_step_right
+skip_step_left
