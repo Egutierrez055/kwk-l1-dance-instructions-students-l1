@@ -37,6 +37,9 @@ def bust_a_move
   puts "Be snazzy"
 end
 
+proper_stance
+bust_a_move
+base_footwork
 Bob_the_Reins 
 puts "while also"
 skip_step_right
@@ -77,3 +80,32 @@ lasso
 puts "while also"
 skip_step_right
 skip_step_left
+lasso 
+puts "while also"
+skip_step_right
+skip_step_left
+lasso 
+puts "while also"
+skip_step_right
+skip_step_left
+lasso 
+puts "while also"
+skip_step_right
+skip_step_left
+lasso 
+puts "while also"
+skip_step_right
+skip_step_left
+lasso 
+puts "while also"
+skip_step_right
+skip_step_left
+lasso 
+puts "while also"
+skip_step_right
+skip_step_left
+lasso 
+puts "while also"
+skip_step_right
+skip_step_left
+
